@@ -21,7 +21,7 @@ Live hosts found: [number] (including my PC)
 
 | # | IP address | MAC address |
 |---|------------|-------------|
-| 1 | [ip] | [mac] |
+| 1 | [192.168.56.1] | [] |
 
 > For a public repo, hide or blur these addresses in the screenshots and topology PDF.
 
